@@ -1,1 +1,16 @@
+= january-ssg
+:toc:
+:icons: font
 
+**Time-reversible site generation in Janus.**
+"January" — The two-faced god. Every build is a reversible transformation where the output can be inverted back to its exact source.
+
+== Why january-ssg?
+=== Deterministic Invertibility
+Janus ensures every statement has a unique inverse. You can "uncall" a procedure to revert a site build to its previous state with mathematical certainty.
+
+=== Thermodynamic Efficiency
+Reversible computing circumvents the Landauer limit of energy dissipation. `january-ssg` is the most energy-efficient engine for **Edge tech** deployments.
+
+== License
+AGPL-3.0-or-later
